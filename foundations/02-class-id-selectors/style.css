@@ -12,3 +12,9 @@
 .odd.work{
     font-size: 24px;
 }
+
+#notagain{
+    background-color: #48ee7f;
+    font-size: 24px;
+    font-weight: 700;
+}
